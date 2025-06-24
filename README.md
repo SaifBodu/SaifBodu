@@ -13,7 +13,7 @@
 - 💻 Proficient in: **Java, Python, Data Science, Data Analytics**
 - 📱 Experienced in **Android App Development**, **Flutter**, and **FlutterFlow**
 - 🌱 Always learning and exploring emerging technologies
-- 📫 Reach me at: **your.email@example.com** *(replace with your actual email)*
+- 📫 Reach me at: **saifbodu@gmail.com**
 
 ---
 
@@ -47,16 +47,16 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/saif-bodu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank" target="_blank">
+  <a href="https://www.hackerrank.com/profile/saifbodu" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+  <a href="https://leetcode.com/u/Saif_Bodu/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:saifbodu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
