@@ -20,7 +20,7 @@
 ### 🛠️ Languages and Tools:
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23007396?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
 </p>
 
 ---
@@ -37,7 +38,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaifBodu&show_icons=true&theme=github_dark" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaifBodu&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifBodu&theme=github-dark&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifBodu&layout=compact&theme=github_dark" />
 </p>
